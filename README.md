@@ -13,7 +13,7 @@
 
 ## Accuracy
 
-The accuracy reaches 97.78% in this sample dataset.
+The accuracy reaches 97.78% in this simple sample dataset.
 
 Sample output is shown as follows, where in the left are the testing faces, in the right are the recognized faces.
 
@@ -22,8 +22,10 @@ Sample output is shown as follows, where in the left are the testing faces, in t
 <img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623244-bc1cea66-3c95-4f7a-a89e-23653124c5d8.jpg"/>
 <img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623249-35bbfdaf-c082-4e70-8662-190dda95debf.jpg"/>
 <img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623252-ba3cef39-32b6-4b60-bea7-6f13aed0d5d8.jpg"/>
-<img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623255-92bbebbd-2500-41c3-a26f-f4c82ba70c2d.jpg"/></div>
-
+<img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623255-92bbebbd-2500-41c3-a26f-f4c82ba70c2d.jpg"/>
+<img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623595-f9a840a3-e359-4c77-b980-57ff67328f9a.jpg"/>
+<img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623598-6118dad9-edb4-43a3-a81b-58cfafbbdb7d.jpg"/>
+<img width="200" height="150" src="https://user-images.githubusercontent.com/95513386/147623608-78c7ac7a-a2cc-4576-b183-8f51245d2169.jpg"/></div>
 
 
 
