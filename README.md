@@ -18,7 +18,7 @@ The accuracy reaches 97.78% in this sample dataset.
 Sample output is shown as follows, where in the left are the testing faces, in the right are the recognized faces.
 
 
-<div align=center><img width="150" height="150" src="https://user-images.githubusercontent.com/95513386/147623240-f7f4433f-7c66-44a0-887a-ad18c23536cc.jpg"/></div>
+<div align=center><img width="100" height="150" src="https://user-images.githubusercontent.com/95513386/147623240-f7f4433f-7c66-44a0-887a-ad18c23536cc.jpg"/></div>
 ![1](https://user-images.githubusercontent.com/95513386/147623240-f7f4433f-7c66-44a0-887a-ad18c23536cc.jpg)![4](https://user-images.githubusercontent.com/95513386/147623244-bc1cea66-3c95-4f7a-a89e-23653124c5d8.jpg)
 ![7](https://user-images.githubusercontent.com/95513386/147623249-35bbfdaf-c082-4e70-8662-190dda95debf.jpg)
 ![10](https://user-images.githubusercontent.com/95513386/147623252-ba3cef39-32b6-4b60-bea7-6f13aed0d5d8.jpg)
